@@ -7,6 +7,7 @@ sap.ui.define([
 checkPresss : function(){
 	
 	console.log("chckPress");
+	console.log("changes in mytestDummy Branch");
 } 
 	});
 });
